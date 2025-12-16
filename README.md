@@ -197,15 +197,4 @@ If you have any questions or need help with setup:
 - Check Firebase documentation for setup help
 - Review Android Studio documentation for build issues
 
-## 📱 Screenshots
-
-*Note: Add screenshots of your application here*
-- Login Screen
-- Dashboard
-- Expense Entry
-- Budget Management
-- Reports Overview
-
----
-
 **Built with ❤️ using Android Studio and Firebase**
